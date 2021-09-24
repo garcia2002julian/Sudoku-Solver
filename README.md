@@ -1,4 +1,5 @@
 # Sudoku-Solver
-A projected I made in 2021 to solve sudoku puzzles.
+A projected I made in 2021 using visual studio and c++ to solve sudoku puzzles.
 
-The sudoku puzzle is hardcoded
+The sudoku puzzle is hardcoded in the SudokuSolver class.
+In order to run the code you must run the SudokuSolver class.
